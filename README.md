@@ -6,4 +6,4 @@
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
 
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-snake.svg)
+![Snake animation](https://github.com/rasperberrypie/rasperberrypie/blob/output/github-snake.svg)
